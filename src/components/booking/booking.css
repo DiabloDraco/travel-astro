@@ -1,0 +1,63 @@
+.booking-bg {
+    @apply bg-BookingBg max-w-[120rem] mx-auto max-h-[67.5rem] flex bg-cover pt-[7.5rem] pb-[11.8125rem] bg-no-repeat
+}
+.booking {
+}
+.booking__header-wrapper {
+    @apply flex flex-col  relative
+}
+.booking__heading {
+    @apply text-bold36 text-white pb-[1.25rem] after:content-[''] after:w-[20.375rem] after:h-[3px] after:bg-orange after:inline-block after:absolute after:top-[82px] after:left-[1.4375rem]
+}
+.booking__heading-line {
+    @apply inline-block w-full h-px bg-topsLine mb-[11.4375rem] mt-[1.25rem]
+}
+.booking__bottom-wrapper {
+    @apply flex gap-[3.25rem] items-center
+}
+.booking__video {
+    @apply max-w-[49.5rem] w-full max-h-[38rem] max-h-full object-cover
+}
+.booking__text-wrapper {
+    @apply max-w-[49.5rem] w-full  h-full bg-booking backdrop:blur-[0.9375rem] pt-[2.5rem] pb-[2.3125rem] pl-[2.8125rem] pr-[3.9375rem]
+}
+.booking__text-heading {
+    @apply text-bold36 text-orange m-0 mb-[1.625rem]
+}
+.booking-text {
+    @apply text-white m-0 text-booking18 max-mac:text-reg14
+}
+
+@media only screen and (max-width: 900px) {
+    /* MOBILE */
+
+    .booking-bg {
+        @apply bg-BookingBg max-w-[120rem] mx-auto max-h-[70.125rem] flex bg-cover pt-[2.0625em] pb-[3.5rem] bg-no-repeat
+    }
+    .booking {
+    }
+    .booking__header-wrapper {
+        @apply flex flex-col  relative max-h-[130px]
+    }
+    .booking__heading {
+        @apply text-bold24 text-white pb-[1.25rem] after:content-[''] after:w-[20.375rem] after:h-[3px] after:bg-orange after:inline-block after:absolute after:top-[67px] after:left-[1.4375rem] text-center
+    }
+    .booking__heading-line {
+        @apply inline-block w-full h-px bg-topsLine mb-[11.4375rem] mt-[1.25rem]
+    }
+    .booking__bottom-wrapper {
+        @apply flex gap-y-[1rem] items-center flex-col
+    }
+    .booking__video {
+        @apply max-w-[49.5rem] w-full max-h-[13.9375rem] object-cover
+    }
+    .booking__text-wrapper {
+        @apply max-w-[49.5rem] w-full  h-full bg-booking backdrop:blur-[0.9375rem] pt-[2.5rem] pb-[2.3125rem] pl-[0.75rem] pr-[0.75rem]
+    }
+    .booking__text-heading {
+        @apply text-bold24 text-orange m-0 mb-[0.3125rem]
+    }
+    .booking-text {
+        @apply text-white m-0 text-reg14 max-mac:text-reg14
+    }
+}

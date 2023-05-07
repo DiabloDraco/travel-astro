@@ -1,0 +1,19 @@
+.dropDown {
+    @apply relative inline w-[13.8125rem]
+}
+
+.dropDown__image-wrapper {
+    @apply absolute right-0 h-[4rem] flex justify-center items-center px-[0.9rem] bg-sliderBtn
+}
+
+.dropDown__option {
+    @apply text-bold24
+}
+
+.dropDown__select {
+    @apply py-[1.25rem] pr-[3.125rem] pl-4 outline-none border-[1px] border-orange w-[13.8125rem]
+}
+
+.dropDown__svg {
+    @apply hover:fill-orange fill-white
+}

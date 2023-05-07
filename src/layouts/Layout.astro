@@ -1,0 +1,60 @@
+---
+
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Orzu Travel</title>
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
+<style is:global>
+	/* inter-regular - latin */
+	@font-face {
+		font-family: "Inter";
+		font-style: normal;
+		font-display: "swap";
+		font-display: "";
+		font-weight: 400;
+		src: url("/fonts/inter-v12-latin-regular.woff2") format("woff2"),
+			url("/fonts/inter-v12-latin-regular.woff") format("woff");
+	}
+	/* inter-500 - latin */
+	@font-face {
+		font-family: "Inter";
+		font-style: normal;
+		font-display: "swap";
+		font-weight: 500;
+		src: url("/fonts/inter-v12-latin-500.woff2") format("woff2"),
+			url("/fonts/inter-v12-latin-500.woff") format("woff");
+	}
+	/* inter-600 - latin */
+	@font-face {
+		font-family: "Inter";
+		font-style: normal;
+		font-display: "swap";
+		font-weight: 600;
+		src: url("/fonts/inter-v12-latin-600.woff2") format("woff2"),
+			url("/fonts/inter-v12-latin-600.woff") format("woff");
+	}
+	/* inter-700 - latin */
+	@font-face {
+		font-family: "Inter";
+		font-style: normal;
+		font-display: "swap";
+		font-weight: 700;
+		src: url("/fonts/inter-v12-latin-700.woff2") format("woff2"),
+			url("/fonts/inter-v12-latin-700.woff") format("woff");
+	}
+
+	body {
+		font-family: "Inter";
+	}
+</style>

@@ -1,0 +1,58 @@
+.topsCard {
+    @apply flex flex-col  m-0 p-0 max-w-[519px] w-full bg-white border-white border shadow-cardShadow
+}
+.topsCard__image-wrapper {
+    @apply relative
+}
+.topsCard__image {
+    @apply max-w-[32.5rem] w-full h-[18.8125rem] object-cover 
+}
+
+.topsCard__icon-wrapper {
+    @apply absolute top-0 left-0 w-[3.75rem] h-[3.75rem] flex justify-center items-center m-0  bg-orange
+}
+
+.topsCard__icon {
+    @apply  object-contain  w-[2,93rem] h-[2,93rem]
+}
+.topsCard__text-wrapper {
+    @apply px-[1.875rem] pt-[3rem] pb-[1.4375rem]
+}
+.topsCard__heading {
+    @apply text-bold24 mb-[1.625rem]
+}
+.topsCard__text {
+    @apply text-reg18
+}
+
+@media only screen and (max-width: 900px) {
+    /* MOBILE */
+
+    .topsCard {
+        @apply  flex flex-col  m-0 p-0 max-w-[519px] w-full bg-white border-white border shadow-cardShadow
+    }
+
+    .topsCard__image-wrapper {
+        @apply relative
+    }
+    .topsCard__image {
+        @apply max-w-[32.5rem] w-full h-[11.75rem] object-cover 
+    }
+    
+    .topsCard__icon-wrapper {
+        @apply absolute top-0 left-0 w-[3.75rem] h-[3.75rem] flex justify-center items-center m-0  bg-orange
+    }
+    
+    .topsCard__icon {
+        @apply  object-contain  w-[2.93rem] h-[2.93rem]
+    }
+    .topsCard__text-wrapper {
+        @apply px-[0.5625rem] pt-[0.625rem] pb-[1.5625rem]
+    }
+    .topsCard__heading {
+        @apply text-bold16 mb-[0.9375rem] text-center
+    }
+    .topsCard__text {
+        @apply text-reg14
+    }
+}

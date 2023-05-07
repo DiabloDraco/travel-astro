@@ -1,0 +1,85 @@
+.destinations__header-wrapper {
+    @apply flex flex-col relative
+}
+
+.destinations__heading {
+    @apply text-bold36 pb-[1.25rem] after:content-[''] after:w-[20.375rem] after:h-[3px] after:bg-orange after:inline-block after:absolute after:top-[82px] after:left-0
+}
+
+.destinations__heading-line {
+    @apply inline-block w-full h-px bg-topsLine mb-[5rem] mt-[1.25rem]
+}
+
+
+.destinations__gallery-wrapper {
+    @apply flex gap-x-[1.25rem] mb-[6.25rem]
+}
+.destinations__col1 {
+    @apply flex flex-col gap-y-[1.25rem]
+}
+.destinations__col2 {
+    @apply flex flex-col gap-y-[1.25rem]
+}
+.destinations__col3 {
+    @apply flex flex-col gap-y-[1.25rem]
+}
+.destinations__col4 {
+    @apply flex flex-col gap-y-[1.25rem]
+}
+
+@media only screen and (max-width: 900px) {
+    /* MOBILE */
+
+    .destinations__header-wrapper {
+        @apply flex flex-col relative
+    }
+    
+    .destinations__heading {
+        @apply text-bold36 pb-[1.25rem] after:content-[''] after:w-[8.875rem] after:h-[3px] after:bg-orange after:inline-block after:absolute after:top-[82px] after:left-28 text-center
+    }
+    
+    .destinations__heading-line {
+        @apply inline-block w-full h-px bg-topsLine mb-[5rem] mt-[1.25rem]
+    }
+    
+    
+    .destinations__gallery-wrapper {
+        @apply flex flex-col gap-y-[1.1875rem] mb-[2.625rem] justify-center
+    }
+    .destinations__col1 {
+        @apply flex flex-row gap-y-0
+    }
+    .destinations__col2 {
+        @apply flex flex-row gap-y-[0] gap-x-[1.1875rem]
+    }
+    .destinations__col3 {
+        @apply flex flex-row gap-y-[0] gap-x-[1.1875rem]
+    }
+    .destinations__col4 {
+        @apply hidden flex-col gap-y-[1.1875rem]
+    }
+
+    .img1 {
+        @apply w-full h-[25.25rem] object-cover
+    }
+
+    .img2 {
+        @apply hidden
+    }
+
+    .img3 {
+        @apply w-[10.35625rem] object-cover h-[6.375rem] object-top
+    }
+
+    .img4 {
+        @apply w-[10.35625rem] object-cover h-[6.375rem] object-center
+    }
+
+    .img5 {
+        @apply w-[10.35625rem] object-cover h-[6.375rem] object-center
+    }
+
+    .img6 {
+        @apply w-[10.35625rem] object-cover h-[6.375rem] object-center
+    }
+}

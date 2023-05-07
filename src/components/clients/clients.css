@@ -1,0 +1,94 @@
+.clients__header-wrapper {
+    @apply flex flex-col relative
+}
+
+.clients__heading {
+    @apply text-bold36 pb-[1.25rem] after:content-[''] after:w-[20.375rem] after:h-[3px] after:bg-orange after:inline-block after:absolute after:top-[82px] after:left-0
+}
+
+.clients__heading-line {
+    @apply inline-block w-full h-px bg-topsLine mb-[7.4375rem] mt-[1.25rem]
+}
+
+.clients__swiper {
+    @apply relative h-[500px]
+}
+
+.middle {
+    @apply w-full h-[500px] overflow-hidden absolute top-1/2 left-1/2 translate-x-min50 translate-y-min50
+}
+
+.slides {
+    @apply w-[400%] h-full flex transition-all
+}
+
+.imgwrapper {
+    @apply w-1/4 transition-all
+}
+
+.s1 {}
+
+
+
+.navigation {
+    @apply absolute bottom-[1.875rem] left-1/2 flex translate-x-min50 transition-all
+}
+
+.q {
+    @apply w-[1.875rem] h-[1.875rem] bg-sliderBtn m-[0.375rem] rounded-full cursor-pointer transition-all
+}
+
+.q:hover {
+    @apply scale-110 bg-orange transition-all
+}
+
+input[name="r"] {
+    @apply absolute hidden
+}
+
+.s1 {
+    @apply transition-all
+}
+
+#r1:checked~.s1 {
+    @apply ml-0 transition-all
+}
+
+#r2:checked~.s1 {
+    @apply ml-[-25%] transition-all
+}
+
+#r3:checked~.s1 {
+    @apply ml-[-50%] transition-all
+}
+
+#r4:checked~.s1 {
+    @apply ml-[-75%] transition-all
+}
+
+.card {
+    @apply w-[63.5rem] h-[22.5rem] bg-white border border-borderColor  flex shadow-slideShadow
+}
+.slide {
+    @apply w-[23.75rem] h-[22.5rem] object-cover 
+}
+.card__right {
+    @apply pt-[1.5rem] pr-[2.625rem] pb-[2.125rem] pl-[2.5625rem] flex flex-col justify-between
+}
+.card__right-text {
+    @apply text-3xl font-normal text-reg18 max-mac:text-reg18
+}
+.card__right-author {
+    @apply text-bold36
+}
+.slide__right {
+    @apply w-[40.6875rem] h-[24rem] object-cover
+}
+
+.slide-wrapper {
+    @apply flex justify-between items-center
+}
+
+.active {
+    @apply bg-orange
+}

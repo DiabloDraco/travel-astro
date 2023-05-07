@@ -1,0 +1,49 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Header from "../components/header";
+import Hero from "../components/hero";
+import Tops from "../components/tops";
+import Booking from "../components/booking";
+import Reccomended from "../components/reccomended";
+import Destinations from "../components/destinations";
+import Footer from "../components/footer";
+
+const content = await (await fetch(`http://localhost:3080/main`)).json();
+---
+
+<Layout>
+    <div class="bg-container relative">
+        <div class="container">
+            <Header info={content?.header} client:load/>
+            <Hero info={content?.hero} />
+        </div>
+    </div>
+    <Tops info={content?.tops} />
+    <Booking info={content?.booking} />
+    <Reccomended info={content?.reccomend} />
+    <Destinations info={content?.destinations} />
+    <Footer info={content?.footer} client:load />
+</Layout>
+
+<style is:global>
+    .container {
+        @apply max-w-[104.75rem] ml-auto mr-auto pl-5 pr-5;
+    }
+
+    .bg-container {
+        @apply max-w-[121.125rem] mr-auto ml-auto bg-heroBg bg-no-repeat bg-center bg-cover h-[67.5rem];
+    }
+
+    html {
+        @apply scroll-smooth
+    }
+
+    @media only screen and (max-width: 900px) {
+        /* MOBILE */
+
+        .bg-container {
+        @apply max-w-[56.25rem] mr-auto ml-auto bg-heroBg bg-no-repeat bg-center bg-cover h-[33.5625rem];   
+        }
+    }
+    
+</style>

@@ -1,0 +1,401 @@
+{
+    "uz": {
+        "alert":"Zayavka qabul qilindi",
+        "header": {
+            "headerLogoText": "Orzu Travel",
+            "headerItem1": "Sayohatlar",
+            "headerItem2": "Qo'llab-quvvatlash",
+            "headerItem3": "Profil",
+            "headerLangText": "Tilni tanlang",
+            "headerLang":"Til"
+        },
+        "hero": {
+            "heroTitle": "Orzu qiling",
+            "heroSubTitle": "O'zingiz yoqtirgan narsani toping",
+            "heroItem1": "ПЕРЕЛЕТЫ",
+            "heroItem2": "ОТЕЛИ",
+            "heroItem3": "МАШИНЫ",
+            "heroItem4": "ТУРЫ",
+            "heroItem5": "БАГАЖ",
+            "heroInfoItem1": "30,000+ Bajariladigan ishlar uchun variantlar",
+            "heroInfoItem2": "3,000+ Turoperatorlar",
+            "heroInfoItem3": "Sertifikatlangan agentlar"
+        },
+        "tops": {
+            "topsTitle": "Eng yaxshi takliflar",
+            "topsCard1": {
+                "topsTitle": "Toshkent viloyatida gastro-tur",
+                "topsText": "Mamlakatning asosiy oshpazlik brendi, albatta, o‘zbek palovidir. O‘zbekistonning har bir hududida u o‘ziga xos usulda tayyorlanadi, shuning uchun bu taomning o‘nga yaqin retseptini “haqiqiy o‘zbek palovi” deb atash mumkin. Samarqand, Farg‘ona, Toshkent, Qashqadaryo yoki Buxoro – ko‘p qirrali o‘zbek palovining barcha soyalarini tatib ko‘ring va o‘zingiz yoqtirganingizni tanlang!",
+                "topsImg": "/images/Tcard1.jpg"
+            },
+            "topsCard2": {
+                "topsTitle": "O'zbekiston bo'ylab gastro-tur",
+                "topsText": "O‘zbekiston bo‘ylab gastronomik turimiz sizni mamlakatimizning eng mazali joylariga olib boradi. O‘zbek oshxonasi butun dunyodan kelgan gurmeler tomonidan yuqori baholanadi va buning bejiz emas. Xushbo'y issiq pirojnoe, tilla qo'zg'atuvchi palov, go'shtli go'shtli samsa va mazali barbekyu - bu bizning kompaniyamiz O'zbekistonning asosiy shaharlari: Toshkent, Xiva, Samarqand va Buxoro bo'ylab gastronomik turda taklif etayotgan narsalarning to'liq bo'lmagan ro'yxati.",
+                "topsImg": "/images/Tcard2.png"
+            },
+            "topsCard3": {
+                "topsTitle": "Tur konstruktori",
+                "topsText": "Tur konstruktori sizning istaklaringiz, maqsadlaringiz va ehtiyojlaringizni hisobga oladi. Butun go'zal O'zbekiston sizning ixtiyoringizda.",
+                "topsImg": "/images/Tcard3.png"
+            }
+        },
+        "booking": {
+            "bookingTitle": "Nega biz yaxshiroqmiz",
+            "bookingSubtitle": "Sotib olish sayohati",
+            "bookingText": "Sayyohlarimizning 99 foizi bizni o'z do'stlariga tavsiya qiladi va yana bizga qaytishga tayyor (sifat nazorati bo'limining statistik ma'lumotlariga ko'ra). Menejerlarning professionalligi va ekskursiyani tanlashda sifatli yordam ko'rsatish istagi mijozlarimiz tomonidan o'z sharhlarida qayd etilgan. Ishdagi halollik va ravshanlik bizni etakchi turoperatorlar reytingida yuqori o'rinlarga olib chiqdi. Turoperator tomonidan ruxsat etilgan maksimal chegirmaga ega vaucherlar 10 daqiqada. Mukammallikning chegarasi yo'q! Va biz siz uchun yaxshiroq bo'lishga intilamiz! Наши менеджеры регулярно обучаются по различным направлениям и проходят аттестацию, совершенствуют свои знания и навыки, участвуя в семинарах и ознакомительных турах Всё это и человеческое искреннее отношение к своей работе позволяет нам повышать уровень обслуживания с каждым днем! Как бы было здорово, если можно было оставить ребенка играть, а самому делать покупки! Верная идея! Для Ваших детей в каждом нашем офисе установлен детский уголок, где ребенок сможет поиграть, порисовать и что-нибудь пособирать, пока Вы спокойно выбираете где состоится будущий отдых. Menejerlarimiz muntazam ravishda turli yo‘nalishlar bo‘yicha o‘qitilib, attestatsiyadan o‘tadilar, seminar va o‘quv safarlarida qatnashib, bilim va malakalarini oshirib boradilar.Bularning barchasi va ishimizga samimiy insoniy munosabat har kuni xizmat ko‘rsatish darajasini oshirish imkonini beradi! Agar siz bolani o'ynashga qoldirib, o'zingiz xarid qilsangiz, qanchalik yaxshi bo'lardi! Haqiqiy fikr! Bizning har bir ofisimizda farzandlaringiz uchun bolalar burchagi mavjud bo'lib, u erda bola o'ynashi, rasm chizishi va biror narsa to'plashi mumkin, siz esa bo'lajak ta'tilingiz qayerda bo'lishini xotirjam tanlaysiz.",
+            "bookingVideo": "/images/booking.jfif"
+        },
+        "reccomend": {
+            "reccomendTitle": "Siz uchun tavsiyalar",
+            "recCard1": {
+                "recTitle": "Toshkent bo'ylab ekskursiya",
+                "recText": "Toshkentning diqqatga sazovor joylariga sayohat, uning davomida siz eski va zamonaviy Toshkentning asosiy diqqatga sazovor joylari bilan tanishasiz. Ekskursiya doirasida dunyoga mashhur Usmon Qur’oni saqlanadigan Xast-Imom majmuasi, rang-barang Chor-su bozori va Mustaqillik maydoniga tashrif buyurish kiradi. Va, albatta, Toshkent oshxonasining gastronomik lazzatlarini his eting.",
+                "recImg": "/images/rec1.jpg"
+            },
+            "recCard2": {
+                "recTitle": "Toshkentdan Chimyon tog'lariga sayohat",
+                "recText": "G'arbiy Tyan-Shanning ajoyib tog'lari bilan o'ralgan Chimyon tog'lari va Chorvoq suv omboriga bir kunlik sayohat. Sohil chizig'i 100 km va hajmi 2 kubometr bo'lgan suv ombori. km. o'zining ajoyib go'zalligi bilan sizni hayratda qoldiradi. Milliy taomlardan tushlik yoki yangi tutilgan alabalık.",
+                "recImg": "/images/rec2.jpg"
+            },
+            "recCard3": {
+                "recTitle": "Toshkentdan Quyosh institutiga sayohat",
+                "recText": "Frantsiyaning janubida joylashgan yagona analogi - Odeillian quyosh pechi 'Quyosh' noyob quyosh majmuasiga bir kunlik sayohat. O‘zbekistondagi yirik quyosh pechi 1 megavatt quvvatda ishlaydi va bir soniya ichida quyosh nuridan 3000°S dan yuqori haroratli issiqlik oqimini hosil qiladi.",
+                "recImg": "/images/rec3.jpg"
+            },
+            "recCard4": {
+                "recTitle": "Amirsoy tog'-chang'i kurortiga sayohat",
+                "recText": "Amirsoy tog'-chang'i kurorti / Amirsoy kurorti - Toshkentdan 70 km uzoqlikda, Tyan-Shan tog'larining g'arbiy qismida, Chotqol tizmasi etaklarida joylashgan. Amirsoy oromgohi O‘zbekistondagi jahon andozalari asosida qurilgan zamonaviy tog‘ kurortidir.",
+                "recImg": "/images/rec4.jpg"
+            },
+            "recCard5": {
+                "recTitle": "Samarqandga sayohat - Tamerlanning poytaxti",
+                "recText": "Yer yuzidagi eng qadimiy shaharlardan biri – 2750 yillik tarixga ega Samarqandga bir kunlik sayohat. Amir Temur va uning nabirasi Ulug‘bek davridagi binolarning me’moriy ulug‘vorligi o‘zining go‘zalligi bilan sizni lol qoldiradi. Gur-Amir maqbarasi, Registon maydoni, Bibixonim masjidi, Shoxi-Zinda majmuasini ziyorat qilasiz. Haqiqiy Samarqand palovini his eting.",
+                "recImg": "/images/rec5.jpg"
+            },
+            "recCard6": {
+                "recTitle": "Buxoroga sayohat-Qadimgi Buxoro sirlari",
+                "recText": "Dunyoning eng qadimiy shaharlaridan biri - Buxoroga ikki kunlik sayohat. Minoralar va masjidlar shahri, shaharning har bir ko'chasi va har bir toshi qadimiy tarixni saqlaydi. Buxoro ko‘p asrlar davomida o‘z qiyofasini o‘zgartirmagan va qadimiy shaharning maftunkor muhitini saqlab qolgan. O'ziga xos usulda pishiriladigan 'osh sofi' nomli noyob palovni va, albatta, afsonaviy Buxoro shish kabobini tatib ko'ring. ",
+                "recImg": "/images/rec6.jpg"
+            }
+        },
+        "destinations": {
+            "destinationsTitle": "Eng yaxshi joylar"
+        },
+        "clients": {
+            "clientsTitle": "Отзывы",
+            "clientsCard1": {
+                "cardText": "Отдых с вашей компанией удался на славу. Я вообще была за границей в первый раз и огромная благодарность вашему сотруднику, который учел этот момент и поселили меня в отель с русскоговорящим персоналом. Мне было комфортно в отеле, я все понимала. Условия проживания были хорошими. Путевка обошлась мне недорого. Следующий отпуск обязательно проведу вместе с вами!",
+                "cardAuthor": "Владлена Писарева",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA.jpg"
+            },
+            "clientsCard2": {
+                "cardText": "Покупал через вас свадебный тур на острова. Подбор тура доверил вашим специалистам, за что собственно и хочу их поблагодарить. Наше свадебное путешествие было великолепным. Мы словно в раю побывали. Настолько красивой природы, белого песка и теплой воды еще не встречали. В следующий отпуск обязательно к вам обратимся, чтобы путешествие было снова интересным.",
+                "cardAuthor": "Михаил Клемент",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA2.jpg"
+            },
+            "clientsCard3": {
+                "cardText": "В первый раз покупал тур онлайн и мне понравилась моя покупка. Форма поиска на сайте довольно удобная. Я запросто нашел то что мне надо, ну а затем воспользовался консультацией вашего сотрудника и уточнил все моменты, которые меня интересовали. В конечном итоге оформил путешествие и уже в нем побывал. Мне понравилось!",
+                "cardAuthor": "Азамат",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA3.jpg"
+            },
+            "clientsCard4": {
+                "cardText": "Путёвка обошлась нам с женой совсем недорого, а отдых запомнился на всю жизнь! Ваше агентство просто удивило приятным сервисом, доступными ценами и широким выбором туров в разные страны. Отель был отличным, экскурсии тоже порадовали. Мы всем довольны, впечатления только приятные. Поедем и с ребёнком, так как уверены, что вы и в этом случае всё продумаете!",
+                "cardAuthor": "Анастасия Иванова",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA4.jpg"
+            }
+        },
+        "footer": {
+            "footerTitle": "Saqlashni boshlang",
+            "footerTopLeftBtn": "Roʻyxatdan oʻtish",
+            "footerTopRightBtn": "Demo",
+            "footerAdress": "Toshkent viloyati,",
+            "footerAdressMiddle": "Quyichirchiq tumanlari, Ma’naviyat,",
+            "footerAdressBottom": "Beruniy MFY. Indeks: 110907",
+            "footerPhone": "Telefon: +998998496033",
+            "footerPhoneMiddle": "+998998496033",
+            "footerPhoneBottom": "Pochta: info@moyamechtatravel.uz",
+            "footerRightTitle": "Imkoniyatni qo'ldan boy bermang!",
+            "footerNamePlace": "FISH",
+            "footerPhonePlace": "Tur",
+            "footerDateLabel": "Kelish sanasini tanlang",
+            "footerDateToLabel": "Ketish sanasini tanlang",
+            "footerPerPersonLabel": "Shaxslar soni",
+            "footerPerPerson": "Shaxslar soni",
+            "footerSubmitBtn": "Bron qilish",
+            "footerPayBtn": "To'lov",
+            "footerRights": "2023 @UzTech Barcha huquqlar himoyalangan",
+            "footerPrivacy": "Siyosat qoidalari",
+            "payment":"To'lov usuli:      "
+        }
+    },
+    "ru": {
+        "alert":"Заявка успешно принята",
+        "header": {
+            "headerLogoText": "Orzu Travel",
+            "headerItem1": "Путешествия",
+            "headerItem2": "Поддержка",
+            "headerItem3": "Аккаунт",
+            "headerLangText": "Выберите язык",
+            "headerLang":"Язык"
+        },
+        "hero": {
+            "heroTitle": "Мечтай",
+            "heroSubTitle": "Найди то что любишь",
+            "heroItem1": "ПЕРЕЛЕТЫ",
+            "heroItem2": "ОТЕЛИ",
+            "heroItem3": "МАШИНЫ",
+            "heroItem4": "ТУРЫ",
+            "heroItem5": "БАГАЖ",
+            "heroInfoItem1": "30,000+ Вариантов Чем Заняться",
+            "heroInfoItem2": "3,000+ Тур операторов",
+            "heroInfoItem3": "Сертифицированые агенты"
+        },
+        "tops": {
+            "topsTitle": "Лучшие предложения",
+            "topsCard1": {
+                "topsTitle": "Гастро тур по Ташкентской области",
+                "topsText": "Главный кулинарный бренд страны – конечно, узбекский плов. В каждой области Узбекистана его готовят своим уникальным способом, поэтому «настоящим узбекским пловом» вправе называться около десяти рецептов этого коронного блюда. Самаркандский, ферганский, ташкентский, кашкадарьинский или бухарский – распробуйте все оттенки многоликого узбекского плова и выберите свой фаворит!",
+                "topsImg": "/images/Tcard1.jpg"
+            },
+            "topsCard2": {
+                "topsTitle": "Гастро тур по Узбекистану",
+                "topsText": "Наш гастрономический тур по Узбекистану отправит Вас по самым вкусным местам нашей страны. Узбекская кухня высоко ценится гурманами со всего мира, и не зря. Ароматные горячие лепешки, золотистый манящий к себе плов, сочная мясная самса и вкуснейший шашлык - это неполный список того, что предлагает наша компания в гастрономическом туре по основным городам Узбекистана: Ташкенту, Хиве, Самарканду и Бухаре.",
+                "topsImg": "/images/Tcard2.png"
+            },
+            "topsCard3": {
+                "topsTitle": "Конструктор Туров",
+                "topsText": "Конструтор туров учитывает ваши пожелания цели и потребности. Весь прекрасный Узбекистан в вашем распоряжении.",
+                "topsImg": "/images/Tcard3.png"
+            }
+        },
+        "booking": {
+            "bookingTitle": "Почему мы лучше",
+            "bookingSubtitle": "Приобретая Тур",
+            "bookingText": "99% наших туристов рекомендуют нас своим друзьям и готовы вернуться к нам вновь (согласно статистике нашего отдела контроля качества). Профессионализм и стремление менеджеров оказать качественную помощь при подборе тура отмечают наши клиенты в своих отзывах. Честность и четкость в работе привела нас на высокие позиции в рейтингах ведущих туроператоров. Путевки с максимально разрешенной туроператором скидкой, за 10 минут. Нет предела совершенству! И мы стремимся становиться лучше для Вас! Наши менеджеры регулярно обучаются по различным направлениям и проходят аттестацию, совершенствуют свои знания и навыки, участвуя в семинарах и ознакомительных турах Всё это и человеческое искреннее отношение к своей работе позволяет нам повышать уровень обслуживания с каждым днем! Как бы было здорово, если можно было оставить ребенка играть, а самому делать покупки! Верная идея! Для Ваших детей в каждом нашем офисе установлен детский уголок, где ребенок сможет поиграть, порисовать и что-нибудь пособирать, пока Вы спокойно выбираете где состоится будущий отдых.",
+            "bookingVideo": "/images/booking.jfif"
+        },
+        "reccomend": {
+            "reccomendTitle": "Рекомендации для вас",
+            "recCard1": {
+                "recTitle": "Экскурсия по Ташкенту",
+                "recText": "Обзорная экскурсия по Ташкенту, в ходе которой вы ознакомитесь с основными достопримечательностями старого и современного Ташкента. Экскурсия предусматривает посещение комплекса Хаст-Имам, где хранится всемирно известный Коран Османа, колоритного базара Чор-Су, площади Независимости. И конечно же ощутить на себя гастрономические изыски Ташкентской кухни.",
+                "recImg": "/images/rec1.jpg"
+            },
+            "recCard2": {
+                "recTitle": "Тур из Ташкента в Чимганские горы",
+                "recText": "Однодневная поездка в Чимганские горы и водохранилищу Чарвак, находящемуся в окружении великолепных гор западного Тянь-Шаня. Водохранилище с береговой линией 100 км и объемом 2 куб. км. поразит вас своей сказочной красотой. Обед из национальных блюд или свежевыловленной форели.",
+                "recImg": "/images/rec2.jpg"
+            },
+            "recCard3": {
+                "recTitle": "Тур из Ташкента в Институт Солнца",
+                "recText": "Однодневный тур в уникальный гелиокомплекс «Солнце», единственный аналог которого находиться на юге Франции — Одейллийская солнечная печь. Большая солнечная печь Узбекистана работает с мощностью в 1 мегаватт и за секунды создает из солнечного света тепловой поток температурой более 3000 ° C.",
+                "recImg": "/images/rec3.jpg"
+            },
+            "recCard4": {
+                "recTitle": "Тур в горнолыжный курорт Амирсой",
+                "recText": "Горнолыжный курорт Амирсой / Amirsoy Resort - расположен в 70 км от Ташкента на отрогах Чаткальского Хребта в западной части Тянь-Шанских гор. Курорт Амирсой – это современный всесезонный горный курорт Узбекистана, построенный в соответствии с мировыми стандартами.",
+                "recImg": "/images/rec4.jpg"
+            },
+            "recCard5": {
+                "recTitle": "Тур в Самарканд- Столица Тамерлана",
+                "recText": "Однодневный тур в один из древнейших городов мира на земле - Самарканд, насчитывающий 2750 лет. Архитектурное великолепие построек времен правления Амира Тимура и его внука Улугбека поразит вас своей красотой. Вы посетите мавзолей Гур-Эмир, площадь Регистан, мечеть Биби-Ханум, комплекс Шахи-Зинда. Ощутить на себя истиный самаркандский Плов.",
+                "recImg": "/images/rec5.jpg"
+            },
+            "recCard6": {
+                "recTitle": "Тур в Бухару-Тайны древней Бухары",
+                "recText": "Двухдневный тур в один из древнейших городов мира на земле- Бухару. Город минаретов и мечетей, каждая улица и каждый камень города хранят в себе древнюю историю. Бухара за многие века не изменила своего облика и сохранила чарующую атмосферу древнего города. Попробовать редкостный плов под названием 'osh sofi' который готовят особым методом и конечно легендарный Бухарский шашлык. ",
+                "recImg": "/images/rec6.jpg"
+            }
+        },
+        "destinations": {
+            "destinationsTitle": "Лучшие Места"
+        },
+        "clients": {
+            "clientsTitle": "Отзывы",
+            "clientsCard1": {
+                "cardText": "Отдых с вашей компанией удался на славу. Я вообще была за границей в первый раз и огромная благодарность вашему сотруднику, который учел этот момент и поселили меня в отель с русскоговорящим персоналом. Мне было комфортно в отеле, я все понимала. Условия проживания были хорошими. Путевка обошлась мне недорого. Следующий отпуск обязательно проведу вместе с вами!",
+                "cardAuthor": "Владлена Писарева",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA.jpg"
+            },
+            "clientsCard2": {
+                "cardText": "Покупал через вас свадебный тур на острова. Подбор тура доверил вашим специалистам, за что собственно и хочу их поблагодарить. Наше свадебное путешествие было великолепным. Мы словно в раю побывали. Настолько красивой природы, белого песка и теплой воды еще не встречали. В следующий отпуск обязательно к вам обратимся, чтобы путешествие было снова интересным.",
+                "cardAuthor": "Михаил Клемент",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA2.jpg"
+            },
+            "clientsCard3": {
+                "cardText": "В первый раз покупал тур онлайн и мне понравилась моя покупка. Форма поиска на сайте довольно удобная. Я запросто нашел то что мне надо, ну а затем воспользовался консультацией вашего сотрудника и уточнил все моменты, которые меня интересовали. В конечном итоге оформил путешествие и уже в нем побывал. Мне понравилось!",
+                "cardAuthor": "Азамат",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA3.jpg"
+            },
+            "clientsCard4": {
+                "cardText": "Путёвка обошлась нам с женой совсем недорого, а отдых запомнился на всю жизнь! Ваше агентство просто удивило приятным сервисом, доступными ценами и широким выбором туров в разные страны. Отель был отличным, экскурсии тоже порадовали. Мы всем довольны, впечатления только приятные. Поедем и с ребёнком, так как уверены, что вы и в этом случае всё продумаете!",
+                "cardAuthor": "Анастасия Иванова",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA4.jpg"
+            }
+        },
+        "footer": {
+            "footerTitle": "Начните экономить свой бюджет",
+            "footerTopLeftBtn": "Регистрация",
+            "footerTopRightBtn": "Демо",
+            "footerAdress": "Тошкент вилояти,",
+            "footerAdressMiddle": "Куйичирчик тумани, Маънавият,",
+            "footerAdressBottom": "Беруний МФЙ. Индекс: 110907",
+            "footerPhone": "Телефон: +998998496033",
+            "footerPhoneMiddle": "+998998496033",
+            "footerPhoneBottom": "Почта: info@moyamechtatravel.uz",
+            "footerRightTitle": "Не упускайте возможность!",
+            "footerNamePlace": "ФИО",
+            "footerPhonePlace": "Тур",
+            "footerDateLabel": "Выберите дату прилёта",
+            "footerDateToLabel": "Выберите дату вылета",
+            "footerPerPersonLabel": "Количество человек",
+            "footerPerPerson": "Количество человек",
+            "footerSubmitBtn": "Бронировать",
+            "footerPayBtn": "Оплата",
+            "footerRights": "2023 @UzTech Все права защищены",
+            "footerPrivacy": "Правила политики",
+            "payment":"Оплата с:      "
+        }
+    },
+    "en": {
+        "alert":"Application successfully accepted",
+        "header": {
+            "headerLogoText": "Orzu Travel",
+            "headerItem1": "Travel",
+            "headerItem2": "Support",
+            "headerItem3": "Account",
+            "headerLangText": "Choose language",
+            "headerLang":"Lang"
+        },
+        "hero": {
+            "heroTitle": "Dream",
+            "heroSubTitle": "Find what you love",
+            "heroItem1": "ПЕРЕЛЕТЫ",
+            "heroItem2": "ОТЕЛИ",
+            "heroItem3": "МАШИНЫ",
+            "heroItem4": "ТУРЫ",
+            "heroItem5": "БАГАЖ",
+            "heroInfoItem1": "30,000+ Things to do",
+            "heroInfoItem2": "3,000+ Tour operators",
+            "heroInfoItem3": "Certified agents"
+        },
+        "tops": {
+            "topsTitle": "Today’s Top Deals",
+            "topsCard1": {
+                "topsTitle": "Gastro tour in Tashkent region",
+                "topsText": "The main culinary brand of the country is, of course, Uzbek plov. In each region of Uzbekistan, it is prepared in its own unique way, so about ten recipes for this signature dish can be called “real Uzbek pilaf”. Samarkand, Ferghana, Tashkent, Kashkadarya or Bukhara - taste all the shades of the many-sided Uzbek pilaf and choose your favorite!",
+                "topsImg": "/images/Tcard1.jpg"
+            },
+            "topsCard2": {
+                "topsTitle": "Gastro tour in Uzbekistan",
+                "topsText": "Our gastronomic tour of Uzbekistan will take you to the most delicious places in our country. Uzbek cuisine is highly valued by gourmets from all over the world, and for good reason. Fragrant hot cakes, golden inviting pilaf, juicy meat samsa and delicious barbecue - this is an incomplete list of what our company offers on a gastronomic tour of the main cities of Uzbekistan: Tashkent, Khiva, Samarkand and Bukhara.",
+                "topsImg": "/images/Tcard2.png"
+            },
+            "topsCard3": {
+                "topsTitle": "Tour Constructor",
+                "topsText": "The tour constructor takes into account your wishes, goals and needs. All beautiful Uzbekistan is at your disposal.",
+                "topsImg": "/images/Tcard3.png"
+            }
+        },
+        "booking": {
+            "bookingTitle": "Why are we better",
+            "bookingSubtitle": "Buying Tour",
+            "bookingText": "99% of our tourists recommend us to their friends and are ready to return to us again (according to statistics from our quality control department). The professionalism and desire of managers to provide quality assistance in choosing a tour is noted by our customers in their reviews. Honesty and clarity in work has led us to high positions in the ratings of leading tour operators. Vouchers with the maximum discount allowed by the tour operator, in 10 minutes. There is no limit to perfection! And we strive to become better for you! And we strive to become better for you! Our managers are regularly trained in various areas and undergo certification, improve their knowledge and skills by participating in seminars and study tours. All this and a sincere human attitude to our work allows us to improve the level of service every day! How great it would be if you could leave the child to play and do the shopping yourself! True idea! For your children in each of our offices there is a children's corner where the child can play, draw and collect something, while you calmly choose where your future vacation will take place.",
+            "bookingVideo": "/images/booking.jfif"
+        },
+        "reccomend": {
+            "reccomendTitle": "Recommendations for you",
+            "recCard1": {
+                "recTitle": "Excursion around Tashkent",
+                "recText": "Sightseeing tour of Tashkent, during which you will get acquainted with the main sights of old and modern Tashkent. The tour includes a visit to the Khast-Imam complex, where the world-famous Osman Koran is kept, the colorful Chor-Su bazaar, and Independence Square. And of course, feel the gastronomic delights of Tashkent cuisine.",
+                "recImg": "/images/rec1.jpg"
+            },
+            "recCard2": {
+                "recTitle": "Tour from Tashkent to Chimgan mountains",
+                "recText": "One day trip to the Chimgan mountains and the Charvak reservoir, surrounded by the magnificent mountains of the western Tien Shan. Reservoir with a coastline of 100 km and a volume of 2 cubic meters. km. will amaze you with its fabulous beauty. Lunch from national dishes or freshly caught trout.",
+                "recImg": "/images/rec2.jpg"
+            },
+            "recCard3": {
+                "recTitle": "Tour from Tashkent to the Institute of the Sun",
+                "recText": "A one-day tour to the unique solar complex 'Sun', the only analogue of which is located in the south of France - the Odeillian solar oven. A large solar oven in Uzbekistan operates at a power of 1 megawatt and in seconds creates a heat flux with a temperature of more than 3000 ° C from sunlight.",
+                "recImg": "/images/rec3.jpg"
+            },
+            "recCard4": {
+                "recTitle": "Tour to the ski resort Amirsoy",
+                "recText": "Ski resort Amirsoy / Amirsoy Resort - located 70 km from Tashkent on the spurs of the Chatkal Range in the western part of the Tien Shan Mountains. Amirsoy resort is a modern all-season mountain resort in Uzbekistan, built in accordance with world standards.",
+                "recImg": "/images/rec4.jpg"
+            },
+            "recCard5": {
+                "recTitle": "Tour to Samarkand - Capital of Tamerlane",
+                "recText": "One-day tour to one of the oldest cities in the world on earth - Samarkand, dating back 2750 years. The architectural splendor of buildings during the reign of Amir Timur and his grandson Ulugbek will amaze you with its beauty. You will visit Gur-Emir mausoleum, Registan square, Bibi-Khanum mosque, Shakhi-Zinda complex. Feel the true Samarkand Pilaf.",
+                "recImg": "/images/rec5.jpg"
+            },
+            "recCard6": {
+                "recTitle": "Tour to Bukhara-Secrets of ancient Bukhara",
+                "recText": "Two-day tour to one of the oldest cities in the world on earth - Bukhara. The city of minarets and mosques, every street and every stone of the city keeps an ancient history. Bukhara has not changed its appearance for many centuries and has preserved the enchanting atmosphere of the ancient city. Try a rare pilaf called 'osh sofi' which is cooked in a special way and of course the legendary Bukhara shish kebab.",
+                "recImg": "/images/rec6.jpg"
+            }
+        },
+        "destinations": {
+            "destinationsTitle": "Best Places"
+        },
+        "clients": {
+            "clientsTitle": "Reviews",
+            "clientsCard1": {
+                "cardText": "Отдых с вашей компанией удался на славу. Я вообще была за границей в первый раз и огромная благодарность вашему сотруднику, который учел этот момент и поселили меня в отель с русскоговорящим персоналом. Мне было комфортно в отеле, я все понимала. Условия проживания были хорошими. Путевка обошлась мне недорого. Следующий отпуск обязательно проведу вместе с вами!",
+                "cardAuthor": "Владлена Писарева",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA.jpg"
+            },
+            "clientsCard2": {
+                "cardText": "Покупал через вас свадебный тур на острова. Подбор тура доверил вашим специалистам, за что собственно и хочу их поблагодарить. Наше свадебное путешествие было великолепным. Мы словно в раю побывали. Настолько красивой природы, белого песка и теплой воды еще не встречали. В следующий отпуск обязательно к вам обратимся, чтобы путешествие было снова интересным.",
+                "cardAuthor": "Михаил Клемент",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA2.jpg"
+            },
+            "clientsCard3": {
+                "cardText": "В первый раз покупал тур онлайн и мне понравилась моя покупка. Форма поиска на сайте довольно удобная. Я запросто нашел то что мне надо, ну а затем воспользовался консультацией вашего сотрудника и уточнил все моменты, которые меня интересовали. В конечном итоге оформил путешествие и уже в нем побывал. Мне понравилось!",
+                "cardAuthor": "Азамат",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA3.jpg"
+            },
+            "clientsCard4": {
+                "cardText": "Путёвка обошлась нам с женой совсем недорого, а отдых запомнился на всю жизнь! Ваше агентство просто удивило приятным сервисом, доступными ценами и широким выбором туров в разные страны. Отель был отличным, экскурсии тоже порадовали. Мы всем довольны, впечатления только приятные. Поедем и с ребёнком, так как уверены, что вы и в этом случае всё продумаете!",
+                "cardAuthor": "Анастасия Иванова",
+                "cardImgRight": "/images/slider1r.png",
+                "cardImgLeft": "/images/VladA4.jpg"
+            }
+        },
+        "footer": {
+            "footerTitle": "Start saving your budget",
+            "footerTopLeftBtn": "Registration",
+            "footerTopRightBtn": "Demo",
+            "footerAdress": "Tashkent region,",
+            "footerAdressMiddle": "Kuyichirchik district, Manaviyat,",
+            "footerAdressBottom": "Beruniy MFY. Index: 110907",
+            "footerPhone": "Phone: +998998496033",
+            "footerPhoneMiddle": "+998998496033",
+            "footerPhoneBottom": "Mail: info@moyamechtatravel.uz",
+            "footerRightTitle": "Don't miss the opportunity!",
+            "footerNamePlace": "Full name",
+            "footerPhonePlace": "Tour",
+            "footerDateLabel": "Select arrival date",
+            "footerDateToLabel": "Select departure date",
+            "footerPerPersonLabel": "Number of persons",
+            "footerPerPerson": "Number of persons",
+            "footerSubmitBtn": "Booking",
+            "footerPayBtn": "Payment",
+            "footerRights": "2023 @UzTech All rights reserved",
+            "footerPrivacy": "Policy Rules",
+            "payment":"Payment from:      "
+        }
+    }
+}

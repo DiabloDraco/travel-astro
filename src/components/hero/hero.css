@@ -1,0 +1,84 @@
+.hero__top-heading {
+    @apply text-bold120 m-0 mt-[152px] text-white
+}
+
+.hero__top-subtitle {
+    @apply text-bold50 m-0 mt-[19px] text-white
+}
+
+.hero__top__list {
+    @apply mt-[86px] gap-[22px] p-0 list-none pb-[465px]
+}
+
+.hero__top-item {
+    @apply hover:bg-linkHover bg-link rounded-heroLink
+}
+
+.hero__top__item-link {
+    @apply backdrop:blur-[2.5px] text-bold18 text-black w-[181px] rounded-heroLink flex justify-center items-center m-0 p-0 pt-[20px] pb-[18px] transition-all 
+}
+
+.hero__top__item-link:hover {
+    @apply text-white
+}
+
+.hero__bottom {
+    @apply absolute bottom-0 flex justify-center items-center left-0 right-0 bg-heroBottom backdrop-blur-[7.5px] py-[36px] px-[20px]
+}
+
+.hero__bottom__list {
+    @apply flex justify-between max-w-[104.75rem] w-full
+}
+
+.hero__bottom__item {
+    @apply gap-[5px] items-center flex
+}
+
+.hero__top__list { 
+    @apply flex justify-center
+}
+
+
+@media only screen and (max-width: 900px) {
+    /* MOBILE */
+
+    .hero__top-heading {
+        @apply text-bold42M m-0 mt-[3.125rem] text-white
+    }
+    
+    .hero__top-subtitle {
+        @apply text-bold24 m-0 mt-[0.5rem] text-white
+    }
+    
+    .hero__top__list {
+        @apply mt-[25px] gap-[20px] p-0 list-none pb-[80px] flex flex-wrap
+    }
+    
+    .hero__top-item {
+        @apply hover:bg-linkHover bg-link rounded-heroLink
+    }
+    
+    .hero__top__item-link {
+        @apply backdrop:blur-[2.5px] text-reg14 font-bold text-black w-[158px] rounded-heroLink flex justify-center items-center m-0 p-0 pt-[20px] pb-[18px] transition-all 
+    }
+    
+    .hero__top__item-link:hover {
+        @apply text-white
+    }
+    
+    .hero__bottom {
+        @apply absolute bottom-0 flex justify-center items-center left-0 right-0 bg-heroBottom backdrop-blur-[7.5px] py-[29px] px-[20px]
+    }
+    
+    .hero__bottom__list {
+        @apply  justify-between max-w-[104.75rem] w-full hidden
+    }
+    
+    .hero__bottom__item {
+        @apply gap-[5px] items-center flex
+    }
+    
+    .hero__top__list { 
+        @apply flex justify-center
+    }
+}

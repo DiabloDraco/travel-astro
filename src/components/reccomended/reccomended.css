@@ -1,0 +1,39 @@
+.recs__list {
+    @apply grid grid-cols-3 gap-[2.375rem] mb-[7.5rem]
+}
+
+.more__wrapper {
+    @apply hidden
+}
+
+@media only screen and (max-width: 900px) {
+    /* MOBILE */
+
+    .recs__list {
+        @apply grid grid-cols-1 gap-[1.25rem] mb-[7.5rem]
+    }
+    
+    .more__wrapper {
+        @apply flex flex-col text-center
+    }
+
+    .more__text {
+
+    }
+
+    .more__arrow {
+
+    }
+
+    .rec4 {
+        @apply hidden
+    }
+
+    .rec5 {
+        @apply hidden
+    } 
+
+    .rec6 {
+        @apply hidden
+    }
+}

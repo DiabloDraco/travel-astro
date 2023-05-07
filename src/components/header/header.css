@@ -1,0 +1,119 @@
+.header__wrapper {
+    @apply flex items-center justify-between gap-1
+}
+
+.header__logo-link {
+    @apply flex items-center gap-2
+}
+
+.header__logo {
+    @apply object-contain object-cover h-[6.375rem] w-[6.375rem]
+}
+
+.header__logo-text {
+    @apply text-bold46 text-white
+}
+
+.header__list {
+    @apply flex items-center gap-[23px]
+}
+
+.header__item__link {
+    @apply flex items-center gap-[10px]
+}
+
+.header__link-icon {
+    @apply w-[24px] h-[24px] object-contain 
+}
+
+.header__link-text {
+    @apply  text-semi24 text-white hover:text-opacity-60
+}
+
+.header__line {
+    @apply block w-full h-px bg-headerLine
+}
+
+.header__navbar {
+    @apply max-phone:hidden
+}
+
+select {
+    @apply bg-transparent text-bold24 text-white
+}
+
+option {
+    @apply text-black text-bold24
+}
+
+.header__menu-bar {
+    @apply hidden
+}
+
+.header__mobile-sel {
+    @apply hidden
+}
+
+@media only screen and (max-width: 900px) {
+    /* MOBILE */
+
+    .header__mobile-sel {
+        @apply flex w-10
+    }    
+
+    .header__wrapper {
+        @apply flex items-center justify-between gap-1
+    }
+    
+    .header__logo-link {
+        @apply flex items-center gap-2 justify-center
+    }
+    
+    .header__logo {
+        @apply object-contain object-cover h-[6.375rem] w-[6.375rem]
+    }
+    
+    .header__logo-text {
+        @apply text-bold24 text-white
+    }
+    
+    .header__list {
+        @apply items-center gap-[23px] hidden absolute flex-col
+    }
+    
+    .header__item__link {
+        @apply flex items-center gap-[10px]
+    }
+    
+    .header__link-icon {
+        @apply w-[24px] h-[24px] object-contain 
+    }
+    
+    .header__link-text {
+        @apply  text-semi24 text-white hover:text-opacity-60
+    }
+    
+    .header__line {
+        @apply block w-full h-px bg-headerLine
+    }
+    
+    .header__navbar {
+        @apply max-phone:hidden
+    }
+    
+    select {
+        @apply bg-transparent text-bold24 text-white
+    }
+    
+    .header__mobile-sel{
+        @apply text-reg14 w-[4rem]
+    }
+    
+    option {
+        @apply text-black text-bold24
+    }
+    
+    .header__menu-bar {
+        @apply flex
+    }
+}
